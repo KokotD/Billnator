@@ -1,2 +1,2 @@
 # Billnator
-All of your outgoing bills in one organized place
+All of your outgoing bills in one organized place.
